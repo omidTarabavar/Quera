@@ -16,5 +16,6 @@ public class Takraghami {
             result = sumOfNums(res);
         }
         return result;
+
     }
 }
